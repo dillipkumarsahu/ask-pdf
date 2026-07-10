@@ -167,17 +167,19 @@ GET /ask?question=What is this document about?
 
 ---
 
-# Screenshots
+## 📸 Screenshots
 
-You can add screenshots here.
+### Home
 
-```
-/screenshots/1.png
+![Home](./screenshots/1.png)
 
-/screenshots/2.png
+### Upload
 
-/screenshots/3.png
-```
+![Upload](./screenshots/2.png)
+
+### Chat
+
+![Chat](./screenshots/3.png)
 
 ---
 
